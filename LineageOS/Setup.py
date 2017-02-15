@@ -25,6 +25,7 @@ while loop:          ## While loop which will keep going until loop = False
 	os.system("cat Setup.cfg | head -n 4 >> ~/.profile")
 	os.system("source ~/.profile")
     #elif choice==3:
+	os.system("python LineageOS/Repo-Setup.py")
    #elif choice==4:
     elif choice==5:
 	exit()
