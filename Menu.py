@@ -1,3 +1,4 @@
+import os
 def print_menu(): 
     print 30 * "-" , "MENU" , 30 * "-"
     print "1. LineageOS"
@@ -14,7 +15,7 @@ while loop:          ## While loop which will keep going until loop = False
     choice = input("Enter your choice [1-5]: ")
      
     if choice==1:     
-        print "Not implemented yet"
+        os.system("python LineageOS/Setup.py")
     elif choice==2:
         print "Not implemented yet"
     elif choice==3:
