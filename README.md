@@ -9,3 +9,4 @@ Run Menu.py with python and setup or install your repo currently all devices wil
  * Add Custom Configurations
  * Add Support For More Devices
  * Command line Arguments
+ * Add APP Injector to include custom apps/binarys in Generated ROM's
