@@ -1,3 +1,5 @@
+# ARCHIVE NOTICE - Currenlty I am not working on this and the code here is only for reference it may or may not be updated at some point but for now concider it abandonded
+
 # Android ROM Creator ARC
 Android ROM Creator (ARC) is a easy to use guided/automated build system for Android ROM developers
 
